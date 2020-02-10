@@ -1,0 +1,11 @@
+{
+    "short_name": "Y3K",
+    "name": "THIRD MELLINNIUM",
+    "icons": [
+      {
+        "src": "res/logo/logo.ico",
+        "sizes": "64x64",
+        "type": "image/x-icon"
+      }
+    ]
+  }
